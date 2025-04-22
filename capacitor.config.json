@@ -1,0 +1,8 @@
+{
+  "appId": "com.bhutanlottery.app",
+  "appName": "Bhutan Lottery",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
